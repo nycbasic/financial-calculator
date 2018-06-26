@@ -1,0 +1,41 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+h4 {
+    padding: 20px 0;
+}
+
+.card {
+    margin: 150px auto;
+    width: 35%;
+}
+
+.card-header {
+    font-size: 1.8rem;
+}
+
+.card-body {
+    height: 100%;
+}
+
+/* form {
+    width: 100%;
+} */
+
+.input-group {
+    width: 40%;
+}
+
+.expense {
+    color: rgb(2, 110, 2);
+    font-weight: bold;
+}
+
+
+
