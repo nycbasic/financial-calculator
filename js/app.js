@@ -23,7 +23,7 @@ const expenses = {
 
 salaryInput.addEventListener('keydown', (e) => {
     const keyEvent = e.keyCode === 13,
-          numbers  = /^[0-9]+$/;
+          numbers  = /^[0-9.]+$/;
 
     if(keyEvent) {
         if(salaryInput.value.match(numbers)) {
