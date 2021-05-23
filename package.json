@@ -1,0 +1,20 @@
+{
+	"name": "financial-management-calculator",
+	"version": "1.0.0",
+	"description": "General expense calculator",
+	"main": "index.html",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"deploy": "gh-pages -d dist"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nycbasic/financial-calculator.git"
+	},
+	"author": "Spoon",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nycbasic/financial-calculator/issues"
+	},
+	"homepage": "https://github.com/nycbasic/financial-calculator#readme"
+}

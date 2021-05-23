@@ -24,10 +24,6 @@ h4 {
     height: 100%;
 }
 
-/* form {
-    width: 100%;
-} */
-
 .input-group {
     width: 40%;
 }
@@ -35,6 +31,17 @@ h4 {
 .expense {
     color: rgb(2, 110, 2);
     font-weight: bold;
+}
+
+.alert {
+    position: absolute;
+    width: 25%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.notification {
+    height: 20px;
 }
 
 
